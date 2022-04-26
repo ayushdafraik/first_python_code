@@ -1,2 +1,0 @@
-# first_python_code
-/notebooks/PY0101EN-1-1-Write_your_first_python_code.ipynb
